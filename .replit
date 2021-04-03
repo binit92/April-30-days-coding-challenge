@@ -1,3 +1,4 @@
 language = "python3"
 #run = "python 1-tic-tac-toe.py"
-run = "python 2-sudoku-verifier.py"
+#run = "python 2-sudoku-verifier.py"
+run = "python 3-morse-code-1.py"
